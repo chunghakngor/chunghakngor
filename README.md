@@ -21,3 +21,6 @@ I am <a href="http://chunghak.tech">Chung</a>, I'm currently a third year Comput
 
 **Hackathon Projects**
 - [WDCC 2020 (Incomplete)](https://github.com/chunghakngor/WDCC-Hackathon)
+
+
+![](https://media.giphy.com/media/y4PQTcLTYJwOI/giphy.gif)
