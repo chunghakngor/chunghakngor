@@ -8,8 +8,8 @@ I am <a href="http://chunghak.tech">Chung</a>, I'm currently a third year Comput
 
 
 **Current Project**
-- <a href="https://github.com/chunghakngor/country-api"> Country Info API (.NET) </a>
-- <a href="https://github.com/chunghakngor/"> Encryption API (Node.js) <a/>
+- [Country Info API (.NET)](https://github.com/chunghakngor/country-api)
+- [Encryption API (Node.js)](https://github.com/chunghakngor)
 - <a href="https://github.com/chunghakngor/ds-algo"> C/C++ Data Structures & Algorithms </a>
 - <a href="https://github.com/chunghakngor/"> JSON Web Token (JWT) Implementation (Node.js) </a>
 
