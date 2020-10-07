@@ -8,7 +8,7 @@ I am [Chung](http://chunghak.tech), I'm currently a third year Computer Science 
 
 **Current Project**
 - :round_pushpin: [Country Info API (.NET)](https://github.com/chunghakngor/country-api)
-- :key: [Encryption API (Node.js)](https://github.com/chunghakngor)
+- :key: [Encryption API (Node.js)](https://github.com/chunghakngor/nodejs-encryption-api)
 - :question: [C/C++ Data Structures & Algorithms](https://github.com/chunghakngor/ds-algo)
 - :lock: [JSON Web Token (JWT) Implementation (Node.js)](https://github.com/chunghakngor/)
 
