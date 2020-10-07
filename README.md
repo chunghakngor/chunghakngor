@@ -2,10 +2,9 @@
 
 Welcome to my Github Profile! 
 
-I am <a href="http://chunghak.tech">Chung</a>, I'm currently a third year Computer Science student at the University of Auckland. 
+I am [Chung](http://chunghak.tech), I'm currently a third year Computer Science student at the University of Auckland. 
 
-**:mortar_board: University Studies**
-
+ <!-- **:mortar_board: University Studies** -->
 
 **Current Project**
 - :round_pushpin: [Country Info API (.NET)](https://github.com/chunghakngor/country-api)
