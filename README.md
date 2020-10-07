@@ -8,13 +8,14 @@ I am <a href="http://chunghak.tech">Chung</a>, I'm currently a third year Comput
 
 
 **Current Project**
-
+- <a href="https://github.com/chunghakngor/country-api"> Country Info API (.NET) </a>
+- <a href="https://github.com/chunghakngor/"> Encryption API (Node.js) <a/>
 
 
 **Past Projects**
-
-
-
+- <a href="https://github.com/chunghakngor/OAuth"> Basic OAuth Template for MERN </a>
+- <a href="https://github.com/chunghakngor/RGB-Color-Game"> Basic RGB Game (Vanilla JS) </a>
+- <a href="https://github.com/chunghakngor/express-template"> Basic Express SSR Template </a>
 
 <!--
 **chunghakngor/chunghakngor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
