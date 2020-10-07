@@ -15,7 +15,7 @@ I am <a href="http://chunghak.tech">Chung</a>, I'm currently a third year Comput
 
 
 **Past Projects**
-- <a href="https://github.com/chunghakngor/OAuth"> Basic OAuth Template for MERN </a>
+- <a href="https://github.com/chunghakngor/OAuth"> Basic OAuth Template for MERN (Passport.js)</a>
 - <a href="https://github.com/chunghakngor/RGB-Color-Game"> Basic RGB Game (Vanilla JS) </a>
 - <a href="https://github.com/chunghakngor/express-template"> Basic Express SSR Template </a>
 
