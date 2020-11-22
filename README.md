@@ -18,8 +18,8 @@ I am [Chung](http://chunghak.tech), I'm currently a third year Computer Science 
 - :movie_camera: [Movie Search API](https://github.com/chunghakngor/demo-movie-api)
 - :video_game: [Basic RGB Game (Vanilla JS)](https://github.com/chunghakngor/RGB-Color-Game)
 - :boy:[Personal Website](http://chunghak.tech)
-- :lock: [Basic OAuth Template for MERN (Passport.js)](https://github.com/chunghakngor/OAuth)
-- :bookmark_tabs: [Basic Express SSR Template](https://github.com/chunghakngor/express-template)
+<!-- - :lock: [Basic OAuth Template for MERN (Passport.js)](https://github.com/chunghakngor/OAuth)
+- :bookmark_tabs: [Basic Express SSR Template](https://github.com/chunghakngor/express-template) -->
 
 **Hackathon Projects**
 - [WDCC 2020 (Incomplete)](https://github.com/chunghakngor/WDCC-Hackathon)
