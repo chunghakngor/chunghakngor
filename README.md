@@ -10,9 +10,7 @@ I am [Chung](http://chunghak.tech), I'm currently a third year Computer Science 
 - :round_pushpin: [Country Info API (.NET)](https://github.com/chunghakngor/country-api)
 - :key: [Encryption API (Node.js)](https://github.com/chunghakngor/nodejs-encryption-api)
 - :question: [C/C++ Data Structures & Algorithms](https://github.com/chunghakngor/ds-algo)
-- :movie: [Discord Rich Presence for Plex using Node.js](https://github.com/chunghakngor/node-rpc-plex)
-
-
+- :tv: [Discord Rich Presence for Plex using Node.js](https://github.com/chunghakngor/node-rpc-plex)
 
 **Past Projects**
 - :books: [Personal Blog](https://github.com/chunghakngor/demo-blog)
