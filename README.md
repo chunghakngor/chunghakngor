@@ -1,10 +1,26 @@
-### Hi there 🙋‍♂️
+## Welcome to my Github Profile! 
 
-Welcome to my Github Profile! 
+###  Hi there 🙋‍♂️
 
-I am [Chung](http://chunghak.tech), I'm currently a third year Computer Science student at the University of Auckland. 
+I am [Chung Hak](http://chunghak.tech), a `#software-developer` and `#car-enthusiast`. I have recently graduated from the University of Auckland and currently pursuing a career in Software Development in New Zealand. 
 
- <!-- **:mortar_board: University Studies** -->
+<details><summary>More about me: </summary>
+ 
+```js
+const more_info = {
+	full_name: "Chung Hak Ngor",
+	age: 23,
+	origin: "Phnom Penh, Cambodia",
+	current_location: "Auckland, New Zealand",
+	university: ["University of Auckland", "University of Otago"],
+	languages: ["English", "Khmer"],
+	code: ["Javascript", "Python", "Java", "C++"],
+};
+```
+
+ </details>
+
+### Checkout some of my latest projects below: 
 
 **Current Project**
 - :round_pushpin: [Country Info API (.NET)](https://github.com/chunghakngor/country-api)
