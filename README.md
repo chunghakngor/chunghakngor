@@ -29,7 +29,7 @@ const more_info = {
 - :lock: [JSON Web Token (JWT) Implementation (Node.js)](https://github.com/chunghakngor/oauth-template)
 
 **Past Projects**
-- :movie_camera: [Movie Search API (React](https://github.com/chunghakngor/movie-db)
+- :movie_camera: [Movie Search API (React)](https://github.com/chunghakngor/movie-db)
 - :books: [Personal Blog](https://github.com/chunghakngor/demo-blog)
 - :video_game: [Basic RGB Game (Vanilla JS)](https://github.com/chunghakngor/RGB-Color-Game)
 - :boy:[Personal Website](http://chunghak.tech)
