@@ -23,6 +23,7 @@ const more_info = {
 ### Checkout some of my latest projects below: 
 
 **Current Project**
+- :syringe: [Clinic Dashboard (MERN)](https://github.com/chunghakngor/clinic-dashboard)
 - :round_pushpin: [Country Info API (.NET)](https://github.com/chunghakngor/country-api)
 - :question: [C/C++ Data Structures & Algorithms](https://github.com/chunghakngor/ds-algo)
 - :tv: [Discord Rich Presence for Plex using Node.js](https://github.com/chunghakngor/node-rpc-plex)
