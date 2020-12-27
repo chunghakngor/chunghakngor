@@ -30,10 +30,10 @@ const more_info = {
 - :lock: [JSON Web Token (JWT) Implementation (Node.js)](https://github.com/chunghakngor/oauth-template)
 
 **Past Projects**
-- :movie_camera: [Movie Search API (React)](https://github.com/chunghakngor/movie-db)
-- :books: [Personal Blog](https://github.com/chunghakngor/demo-blog)
-- :video_game: [Basic RGB Game (Vanilla JS)](https://github.com/chunghakngor/RGB-Color-Game)
-- :boy:[Personal Website](http://chunghak.tech)
+- :movie_camera: [Movie Search API (React)](https://chunghakngor.github.io/movie-db/)  |  [Repo](https://github.com/chunghakngor/movie-db)
+- :books: [Personal Blog](https://github.com/chunghakngor/demo-blog)  |  [Repo](https://github.com/chunghakngor/demo-blog)
+- :video_game: [Basic RGB Game (Vanilla JS)](https://chunghakngor.github.io/RGB-Color-Game/)  |  [Repo](https://github.com/chunghakngor/RGB-Color-Game)
+- :boy:[Personal Website](http://chunghak.tech)  |  [Repo](https://github.com/chunghakngor/chunghak.tech)
 
 **Hackathon Projects**
 - [WDCC 2020 (Incomplete)](https://github.com/chunghakngor/WDCC-Hackathon)
