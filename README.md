@@ -31,8 +31,8 @@ const more_info = {
 
 **Past Projects**
 - :movie_camera: [Movie Search API (React)](https://chunghakngor.github.io/movie-db/)  |  [Repo](https://github.com/chunghakngor/movie-db)
-- :books: [Personal Blog](https://github.com/chunghakngor/demo-blog)  |  [Repo](https://github.com/chunghakngor/demo-blog)
 - :video_game: [Basic RGB Game (Vanilla JS)](https://chunghakngor.github.io/RGB-Color-Game/)  |  [Repo](https://github.com/chunghakngor/RGB-Color-Game)
+- :books: [Personal Blog](https://github.com/chunghakngor/demo-blog)  |  [Repo](https://github.com/chunghakngor/demo-blog)
 - :boy:[Personal Website](http://chunghak.tech)  |  [Repo](https://github.com/chunghakngor/chunghak.tech)
 
 **Hackathon Projects**
